@@ -25,10 +25,10 @@ This is an **end-to-end full-stack project**, built to learn and showcase skills
 
 ## 🗂️ Project Structure
 skull-web-game/
-├── frontend/ # React + Vite + Tailwind app (UI, game board)
-├── backend/ # Node.js + Express + Socket.io (game logic & API)
-├── database/ # DB schema & migrations
-├── docs/ # Documentation & diagrams
+- frontend/ # React + Vite + Tailwind app (UI, game board)
+- backend/ # Node.js + Express + Socket.io (game logic & API)
+- database/ # DB schema & migrations
+- docs/ # Documentation & diagrams
 
 ## 📅 Roadmap
 - [x] **Phase 0**: Repo setup ✅  
